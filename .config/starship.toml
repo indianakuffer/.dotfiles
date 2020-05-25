@@ -19,3 +19,13 @@ threshold = 70
 # Disable the package module, hiding it from the prompt completely
 [package]
 disabled = true
+
+[directory]
+style = "bold cyan"
+
+#[time]
+#disabled = false
+
+#[username]
+#disabled = false
+#show_always = true
