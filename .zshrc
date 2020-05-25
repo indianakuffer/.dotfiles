@@ -102,3 +102,4 @@ unsetopt PROMPT_SP
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # ~/.zshrc
+eval "$(starship init zsh)"
